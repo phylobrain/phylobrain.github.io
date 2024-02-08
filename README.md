@@ -1,1 +1,2 @@
-Hola
+This is the website repository of Dr. Fernando García-Moreno lab.
+You can find more info at https://www.achucarro.org/laboratory/brain-development-and-evolution/ or https://www.achucarro.org/people/fernando-garcia-moreno/
